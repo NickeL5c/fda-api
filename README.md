@@ -1,3 +1,9 @@
+# API Key and Info
+
+API key: kPOQSAOg4cQcAY8rkM3t0TOCafPUPQObYsPMEwUX
+240 requests per minute, per key. 120,000 requests per day, per key.
+[API Documentation](https://open.fda.gov/apis/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
